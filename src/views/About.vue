@@ -138,7 +138,7 @@
                                 ( React )
                             </li>
                             <li>
-                                <b class="-purple"><a href="https://github.com/alanchrissantony/alanchrissantony.github.io/" target="_blank" title="Visit Magento's website" class="about-link">Portfolio</a></b><br>
+                                <b class="-purple"><a href="https://github.com/alanchrissantony/Portfolio/" target="_blank" title="Visit Magento's website" class="about-link">Portfolio</a></b><br>
                                 Website<br>
                                 ( Vue )
                             </li>
